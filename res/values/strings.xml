@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">RequireClassesTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_launch_check">LaunchCheckActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_failed">FailedActivity</string>
+    <string name="failed_require_cm_91">To run this app, you need to be running a compatible ROM, such as CyanogenMod 9.1!</string>
+
+</resources>
